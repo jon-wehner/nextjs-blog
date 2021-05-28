@@ -10,6 +10,7 @@ const FirstPost = () => {
           <a>Back to home</a>
         </Link>
       </h2>
+      <p>Look at this post</p>
     </>
   );
 };
